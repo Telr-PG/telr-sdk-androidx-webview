@@ -1,0 +1,2 @@
+include ':app', ':telrlibrary_3_5'
+rootProject.name='TelrSdk3_5'
